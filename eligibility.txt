@@ -1,0 +1,6 @@
+age = int(input("Enter the age:"))
+if age>= 18:
+    print("you are eligible to cast your vote")
+else:
+    print("wait until you are 18")
+ 
